@@ -47,6 +47,8 @@ Step-5 Give inputs in the waveform table .
 Step-6 Run the program
 
 **PROGRAM**
+
+
 module jkff(j,k,clk,q,qbar);
 input j,k,clk;
 output reg q,qbar;
