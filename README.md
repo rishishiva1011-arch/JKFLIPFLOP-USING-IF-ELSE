@@ -48,7 +48,6 @@ Step-6 Run the program
 
 **PROGRAM**
 ```
-
 module jkff(j,k,clk,q,qbar);
 input j,k,clk;
 output reg q,qbar;
@@ -64,9 +63,9 @@ q<=(j&~q)|(~k&q);
 qbar<=~q;
 end
 endmodule
-
 ```
 Developed by: Rishikesh S
+
 RegisterNumber: 25005617
 
 
