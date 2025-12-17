@@ -34,7 +34,6 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved*/
 ```
 1.Open Quartus Prime and create a new project using the New Project Wizard.
 
@@ -51,8 +50,10 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by:NITESH BHANDARI K  RegisterNumber:25009039
-*/
+Developed by:NITESH BHANDARI K  
+
+RegisterNumber:25009039
+
 ```
 module jk(j,k,clk,q,qbar);
 input j,k,clk;
